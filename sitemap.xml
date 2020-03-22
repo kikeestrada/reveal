@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://kikeestrada.website/</loc>
+        <lastmod>2020-03-22T23:31:59.235Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.website/assets/vendors/reveal/</loc>
+        <lastmod>2020-03-22T23:31:09.625Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.website/assets/vendors/reveal/vanilla.html</loc>
+        <lastmod>2020-03-22T23:31:09.917Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.website/assets/vendors/reveal/plugin/markdown/example.html</loc>
+        <lastmod>2020-03-22T23:31:10.636Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.website/assets/vendors/reveal/plugin/notes/notes.html</loc>
+        <lastmod>2020-03-22T23:31:10.656Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.website/assets/vendors/reveal/plugin/notes-server/notes.html</loc>
+        <lastmod>2020-03-22T23:31:10.667Z</lastmod>
+    </url>
+</urlset>
